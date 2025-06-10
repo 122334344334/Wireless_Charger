@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Test")(type "EAGLE")(uri "/Users/lucasavioli/Downloads/Eagle_WL-SMCW (rev24a).lbr")(options "")(descr ""))
+)
