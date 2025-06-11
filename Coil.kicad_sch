@@ -8116,7 +8116,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "303f37a0-39d9-4674-aaf6-d2fce6e3ca61")
-		(property "Reference" "TP405"
+		(property "Reference" "TP403"
 			(at 118.618 146.558 0)
 			(effects
 				(font
@@ -8167,7 +8167,7 @@
 		(instances
 			(project "Wireless_Charger"
 				(path "/547bfc24-3721-4bae-afe0-2e67b1f22193/ab5ffafb-c0a8-441f-b5fa-048ba9e5f69f"
-					(reference "TP405")
+					(reference "TP403")
 					(unit 1)
 				)
 			)
@@ -10703,7 +10703,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8fc8d03f-c967-43ab-a0c4-18e2a8b9cc89")
-		(property "Reference" "TP406"
+		(property "Reference" "TP400"
 			(at 119.38 93.218 0)
 			(effects
 				(font
@@ -10754,7 +10754,7 @@
 		(instances
 			(project "Wireless_Charger"
 				(path "/547bfc24-3721-4bae-afe0-2e67b1f22193/ab5ffafb-c0a8-441f-b5fa-048ba9e5f69f"
-					(reference "TP406")
+					(reference "TP400")
 					(unit 1)
 				)
 			)
@@ -10836,7 +10836,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "947fec22-6c45-4a55-b6b3-c2ef3e1c1d16")
-		(property "Reference" "R417"
+		(property "Reference" "R412"
 			(at 180.34 118.11 0)
 			(effects
 				(font
@@ -10960,7 +10960,7 @@
 		(instances
 			(project "Wireless_Charger"
 				(path "/547bfc24-3721-4bae-afe0-2e67b1f22193/ab5ffafb-c0a8-441f-b5fa-048ba9e5f69f"
-					(reference "R417")
+					(reference "R412")
 					(unit 1)
 				)
 			)
@@ -10976,7 +10976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9601e2b1-6797-4be6-a078-c0d4390ff3fd")
-		(property "Reference" "R402"
+		(property "Reference" "R403"
 			(at 198.12 101.6 0)
 			(effects
 				(font
@@ -11100,7 +11100,7 @@
 		(instances
 			(project "Wireless_Charger"
 				(path "/547bfc24-3721-4bae-afe0-2e67b1f22193/ab5ffafb-c0a8-441f-b5fa-048ba9e5f69f"
-					(reference "R402")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -13318,7 +13318,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff7901d4-a86d-4862-b176-b5e2eb04065f")
-		(property "Reference" "R401"
+		(property "Reference" "R407"
 			(at 186.69 132.08 0)
 			(effects
 				(font
@@ -13442,7 +13442,7 @@
 		(instances
 			(project "Wireless_Charger"
 				(path "/547bfc24-3721-4bae-afe0-2e67b1f22193/ab5ffafb-c0a8-441f-b5fa-048ba9e5f69f"
-					(reference "R401")
+					(reference "R407")
 					(unit 1)
 				)
 			)

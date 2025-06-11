@@ -1,63 +1,13 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [
-      "GND",
-      "HV",
-      "Signal"
+      "GND"
     ],
     "hidden_nets": [
-      "Earth",
-      "VIN",
-      "3V3",
-      "1V8",
-      "VREF",
-      "/RING_NODE1",
-      "Net-(C213-Pad2)",
-      "/RING_NODE2",
-      "/SW_HS1",
-      "/VIN_ISNS_P",
-      "/VIN_ISNS_N",
-      "/SW_HS2",
-      "/TANK1_ON",
-      "/TANK1_SW",
-      "/TANK2_SW",
-      "/TANK2_ON",
-      "Net-(D103-I{slash}O1)",
-      "Net-(D103-I{slash}O2)",
-      "/GD_HS1",
-      "/GD_LS3",
-      "/NRESET",
-      "/BRIDGE_ISNS_N",
-      "/LED1",
-      "/TANK2_SEL",
-      "/UART_TX",
-      "/FAN",
-      "/USB_CC1",
-      "/QF_SHORT",
-      "/GD_LS2",
-      "/SW_HS3",
-      "/TEMP",
-      "/UART_RX",
-      "/DCDC_SHORT",
-      "/GD_HS3",
-      "/USB_DM",
-      "/USB_CC2",
-      "/I2C_SDA",
-      "/GD_LS1",
-      "/GD_HS2",
-      "/SWCLK",
-      "/LED2",
-      "/LED3",
-      "/RING_SNS",
-      "/TANK1_SEL",
-      "/SWDIO",
-      "/I2C_SCL",
-      "/USB_DP",
-      "/USB_D+",
-      "/USB_D-"
+      "Earth"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -104,7 +54,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -126,6 +76,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -138,7 +90,9 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
       156,
@@ -149,6 +103,8 @@
       103,
       103,
       74,
+      103,
+      103,
       103,
       103
     ],
