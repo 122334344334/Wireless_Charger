@@ -497,38 +497,26 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.5,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "GND",
-        "pcb_color": "rgb(4, 0, 0)",
-        "priority": 1,
-        "schematic_color": "rgb(4, 0, 0)",
-        "track_width": 2.0,
-        "via_diameter": 0.8,
-        "via_drill": 0.4
-      },
-      {
-        "clearance": 1.0,
+        "clearance": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "HV",
         "pcb_color": "rgb(255, 0, 221)",
         "priority": 0,
         "schematic_color": "rgb(255, 0, 221)",
-        "track_width": 1.0,
+        "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4
       },
       {
-        "clearance": 0.5,
+        "clearance": 0.2,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Power",
         "pcb_color": "rgb(253, 0, 0)",
-        "priority": 3,
+        "priority": 2,
         "schematic_color": "rgb(253, 0, 0)",
-        "track_width": 2.0,
+        "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4
       },
@@ -538,7 +526,7 @@
         "microvia_drill": 0.1,
         "name": "Signal",
         "pcb_color": "rgb(2, 36, 255)",
-        "priority": 2,
+        "priority": 1,
         "schematic_color": "rgb(2, 36, 255)",
         "track_width": 0.1,
         "via_diameter": 0.6,
@@ -796,7 +784,7 @@
         "pattern": "/DC-DC/VBRIDGE"
       },
       {
-        "netclass": "GND",
+        "netclass": "Default",
         "pattern": "GND"
       }
     ]
