@@ -6605,12 +6605,12 @@
 	(symbol
 		(lib_id "CON_USB_C_632723300011:632723300011")
 		(at 83.82 63.5 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "85fac603-1590-46ce-9a73-ea6aa50c2026")
 		(property "Reference" "J100"
 			(at 83.82 40.64 0)
